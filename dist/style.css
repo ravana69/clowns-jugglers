@@ -1,0 +1,10 @@
+/*
+changing body bg color will give a different color effect
+*/
+
+body {
+  background: #E9F0C9;
+  overflow: hidden;
+  margin:0;
+  width:100%;
+}
